@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>RSS TEST</title>
+  <link>https://pazdanowskyplay.github.io/webprofile/</link>
+  <description>Testing RSS on github</description>
+  <image>
+      <url></url>
+      <link></link>
+  </image>
+  <item>
+      <title>News</title>
+      <link>bing.com</link>
+      <description>111</description>
+  </item>
+  <item>
+      <title>test</title>
+      <link>google.com</link>
+      <description>222</description>
+    </item>
+</channel>
+</rss>
